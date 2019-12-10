@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-# Copyright Clairvoyant 2015
+# Copyright 
 
 # The original intent of this script was to install the unlimited strength JCE
 # to *all* Oracle JDKs installed on the system.  With the advent of the JCE
