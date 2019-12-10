@@ -13,8 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-# Copyright Clairvoyant 2017
-#
+# Copyright 
 
 # ARGV:
 # 1 - Ambari server database type : embedded, postgresql, mysql, or oracle - optional
