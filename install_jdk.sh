@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-# Copyright Clairvoyant 2015
+# Copyright 
 
 # Note:
 # If you do not want to download the JDK multiple times or access to
