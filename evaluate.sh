@@ -14,8 +14,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-# Copyright Clairvoyant 2016
-
+# Copyright 
 PATH=/bin:/sbin:/usr/bin:/usr/sbin
 
 # Function to discover basic OS details.
