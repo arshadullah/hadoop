@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-# Copyright Clairvoyant 2016
+# Copyright 
 
 # https://www.cloudera.com/documentation/enterprise/5-5-x/topics/sg_optimize_hdfs_encryption.html
 
