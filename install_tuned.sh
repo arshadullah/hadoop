@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-# Copyright Clairvoyant 2016
+# Copyright 
 
 # Function to discover basic OS details.
 discover_os() {
