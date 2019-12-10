@@ -12,8 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-# Copyright Clairvoyant 2015
-
+# Copyright 
 DATE=$(date +'%Y%m%d%H%M%S')
 
 # Function to discover basic OS details.
