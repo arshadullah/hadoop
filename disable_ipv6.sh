@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-# Copyright Clairvoyant 2016
+# Copyright 
 
 DATE=$(date +'%Y%m%d%H%M%S')
 
